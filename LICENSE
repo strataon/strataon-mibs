@@ -1,0 +1,30 @@
+STRATAON Integration Resources License
+
+Copyright (c) STRATAON Equipamentos Eletrônicos Ltda.
+All rights reserved.
+
+Permission is granted to use, copy and distribute the files contained
+in this repository solely for the purpose of configuring, integrating,
+monitoring, managing or supporting STRATAON products.
+
+Modification of these files is permitted when reasonably necessary for
+integration with third-party monitoring or management systems, provided
+that such modified files are not represented as official STRATAON files.
+
+Redistribution of original or modified files must retain this copyright
+notice and this license notice.
+
+The STRATAON name, trademarks and logos may not be used to imply
+endorsement, certification or partnership without prior written
+authorization from STRATAON Equipamentos Eletrônicos Ltda.
+
+This license does not grant any rights to STRATAON firmware, hardware
+designs, source code, trademarks, patents or other proprietary
+technology not expressly included in this repository.
+
+THE FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+STRATAON Equipamentos Eletrônicos Ltda. shall not be liable for any
+claim, damages or other liability arising from the use of these files.
